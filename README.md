@@ -1,4 +1,5 @@
 # SnapCast
+[![Docker Pulls](https://img.shields.io/docker/pulls/strm/snapcast.svg?style=plastic)](https://hub.docker.com/r/strm/snapcast/)
 
 ![Snapcast](logo.png)
 
